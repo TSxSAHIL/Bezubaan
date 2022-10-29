@@ -14,7 +14,7 @@ class MyDrawer extends StatelessWidget {
     final imageUrl = "https://avatars.githubusercontent.com/u/80686569?s=400&u=8a6b5afff218150aad7123c4d1d81fc18c46dbc6&v=4";
     return Drawer(
       child: Container(
-        color: Colors.deepPurple,
+        color: Colors.red,
         child: ListView(
           padding: EdgeInsets.zero,
           // ignore: prefer_const_literals_to_create_immutables
